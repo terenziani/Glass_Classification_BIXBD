@@ -6,7 +6,7 @@
 
 # Glass Type Classification
 
-<img src="logo_università/logo_Politecnico_di_Torino.jpg" alt="logo" width="200">
+<img src="logo_università/logo_Politecnico_Torino.jpg" alt="logo" width="200">
 
 <br>
 
